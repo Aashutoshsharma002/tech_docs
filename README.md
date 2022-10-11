@@ -1,2 +1,3 @@
 # tech_docs
-Technical document 
+Technical document
+1. contributing to hactoberfest
