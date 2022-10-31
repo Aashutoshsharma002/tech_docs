@@ -9,4 +9,4 @@ data = requests.get(url)
 master_m3u8 = m3u8.loads(data.text)
 segment = master_m3u8.data['segments'][0]['uri']
 print(master_m3u8.data)
-print(segment)
+print(segment) #print data
